@@ -37,9 +37,7 @@ public class Lanche1038 {
 		default:
 			throw new IllegalArgumentException("Unexpected value: " + menu);
 		}
-		/*
-		 * oiiiiii
-		 */
+
 	}
 
 }
