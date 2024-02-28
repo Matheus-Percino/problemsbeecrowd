@@ -8,6 +8,8 @@ public class CoordenadasDeUmPonto1041 {
 		// TODO Auto-generated method stub
 
 		Scanner scanner =  new Scanner(System.in);
+		
+		
 		double x, y;
 		x = scanner.nextDouble();
 		y = scanner.nextDouble();
